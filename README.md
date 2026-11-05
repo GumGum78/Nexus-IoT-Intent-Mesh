@@ -1,4 +1,4 @@
-# IoT-Intent-Mesh
+# Nexus-IoT-Intent-Mesh
 new IoT communication concept
 The principle:
 Each object publishes its capabilities and constraints.
